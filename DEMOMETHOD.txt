@@ -1,0 +1,3 @@
+ON DEMO: along with live bus request, make request to matthewrbevins.com with database/json file
+
+ON MATTHEWRBEVINS: use metromate code to update JSON file, also make request to arduino

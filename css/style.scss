@@ -1,0 +1,56 @@
+@import 'scss/bootstrap'; 
+
+
+body 
+{
+    background-size: cover;
+    height:100%; 
+    margin: 0px;
+}
+
+h1 {
+    font-size: 100px;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+p {
+    font-size: 20px;
+}
+
+#home {
+    background-image: url('../images/bus1.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#contact {
+    background-image: url('../images/traffic1.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.desktophide {
+    display: none;
+}
+
+#get {
+    background-image: url('../images/bus2.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.headtitle {
+    font-size: 100px;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex div {
+    margin-bottom: auto;
+    margin-top: auto;
+}
